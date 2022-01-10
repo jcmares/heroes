@@ -1,13 +1,13 @@
 # heroes
 
-# 1 instalar dependencias del proyecto  
+# 1 Instalar dependencias del proyecto  
     cd heroesApp/
     yarn install
 
-# 2 para dispositivo iOS instalar pods 
+# 2 Para dispositivo iOS instalar pods 
     cd ios/
     pod install
     cd ..
  
-# 3 lanzar app   
+# 3 Lanzar app   
      yarn ios or yarn android
