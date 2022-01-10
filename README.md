@@ -6,10 +6,8 @@
 
 # step 2 for ios device 
     cd ios/
-   
-# step 3
     pod install
+    cd ..
  
-# step 4 
-     cd ..  
+# step 4   
      yarn ios or yarn android
